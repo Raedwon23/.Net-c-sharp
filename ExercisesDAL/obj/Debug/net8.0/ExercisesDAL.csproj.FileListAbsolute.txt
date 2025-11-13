@@ -1,0 +1,70 @@
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesDAL\bin\Debug\net8.0\ExercisesDAL.deps.json
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesDAL\bin\Debug\net8.0\ExercisesDAL.runtimeconfig.json
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesDAL\bin\Debug\net8.0\ExercisesDAL.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesDAL\bin\Debug\net8.0\ExercisesDAL.pdb
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.csproj.AssemblyReference.cache
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.AssemblyInfoInputs.cache
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.AssemblyInfo.cs
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.csproj.CoreCompileInputs.cache
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\refint\ExercisesDAL.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.pdb
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.genruntimeconfig.cache
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ref\ExercisesDAL.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesDAL\bin\Debug\net8.0\ExercisesDAL.deps.json
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesDAL\bin\Debug\net8.0\ExercisesDAL.runtimeconfig.json
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesDAL\bin\Debug\net8.0\ExercisesDAL.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesDAL\bin\Debug\net8.0\ExercisesDAL.pdb
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.csproj.AssemblyReference.cache
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.AssemblyInfoInputs.cache
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.AssemblyInfo.cs
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.csproj.CoreCompileInputs.cache
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\refint\ExercisesDAL.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.pdb
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.genruntimeconfig.cache
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ref\ExercisesDAL.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesDAL\bin\Debug\net8.0\ExercisesDAL.deps.json
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesDAL\bin\Debug\net8.0\ExercisesDAL.runtimeconfig.json
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesDAL\bin\Debug\net8.0\ExercisesDAL.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesDAL\bin\Debug\net8.0\ExercisesDAL.pdb
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.csproj.AssemblyReference.cache
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.AssemblyInfoInputs.cache
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.AssemblyInfo.cs
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.csproj.CoreCompileInputs.cache
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\refint\ExercisesDAL.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.pdb
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.genruntimeconfig.cache
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ref\ExercisesDAL.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesDAL\bin\Debug\net8.0\ExercisesDAL.deps.json
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesDAL\bin\Debug\net8.0\ExercisesDAL.runtimeconfig.json
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesDAL\bin\Debug\net8.0\ExercisesDAL.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesDAL\bin\Debug\net8.0\ExercisesDAL.pdb
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.csproj.AssemblyReference.cache
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.AssemblyInfoInputs.cache
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.AssemblyInfo.cs
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.csproj.CoreCompileInputs.cache
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\refint\ExercisesDAL.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.pdb
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.genruntimeconfig.cache
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ref\ExercisesDAL.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesDAL\bin\Debug\net8.0\ExercisesDAL.deps.json
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesDAL\bin\Debug\net8.0\ExercisesDAL.runtimeconfig.json
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesDAL\bin\Debug\net8.0\ExercisesDAL.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesDAL\bin\Debug\net8.0\ExercisesDAL.pdb
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.csproj.AssemblyReference.cache
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.AssemblyInfoInputs.cache
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.AssemblyInfo.cs
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.csproj.CoreCompileInputs.cache
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\refint\ExercisesDAL.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.pdb
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ExercisesDAL.genruntimeconfig.cache
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesDAL\obj\Debug\net8.0\ref\ExercisesDAL.dll

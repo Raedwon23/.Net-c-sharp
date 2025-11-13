@@ -1,0 +1,1 @@
+﻿SELECT lastname, LEN(picture) AS '# of bytes in pic' FROM Students

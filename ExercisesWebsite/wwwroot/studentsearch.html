@@ -1,0 +1,127 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title> Student Search</title>
+    <meta charset="utf-8" />
+    <link rel="icon" href="data:;base64,iVBORw0KGgo=">
+    <link href="/lib/css/bootstrap.min.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+    <nav class="navbar navbar-expand-md navbar-light bg-light">
+        <a class="navbar-brand mx-3" href="#">Info3070Exercises</a>
+        <button class="navbar-toggler mx-3" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarContent">
+            <ul class="navbar-nav me-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="/studentaddupdate.html#theModal" data-bs-toggle="modal" data-bs-target="#theModal">Add/Update</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/studentlookup.html">Lookup</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/modalexample.html">Modal</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/lab7a.html" data-bs-toggle="modal" data-bs-target="#theModal">Student List</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/lab9a.html#theModal" data-bs-toggle="modal" data-bs-target="#theModal">Lab9a</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/studentcrud.html">CRUD</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" href="/studentsearch.html">Search</a>
+                </li>
+            </ul>
+            <form>
+                <input class="form-control" type="search" placeholder="Search" id="srch" aria-label="Search"
+                       style="width:10vw;margin-right:5vw;">
+            </form>
+
+        </div>
+    </nav>
+
+    <div class="justify-content-center align-items-center row mt-5 ml-1">
+        <div class="col-12 text-center p-3"><h2>Current Students</h2></div>
+        <div class="list-group col-10" id="studentList" style="height:45vh;"></div>
+    </div>
+
+    <!-- Modal Markup -->
+    <div class="modal fade" id="theModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="theModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="card-heading text-center">
+                    <h2 class="modal-title" id="modaltitle">Update Student</h2>
+                </div>
+                <div class="modal-body">
+                    <div class="mx-2 my-2">
+                        <div class="card">
+                            <div class="card-header text-center">Student Information</div>
+                            <div class="card-body">
+                                <div class="row mb-3">
+                                    <div class="col-4 text-right font-weight-bold">Title:</div>
+                                    <div class="col-8">
+                                        <input type="text" placeholder="Enter title" id="TextBoxTitle" class="form-control" />
+                                    </div>
+                                </div>
+                                <div class="row mb-3">
+                                    <div class="col-4 text-right font-weight-bold">First Name:</div>
+                                    <div class="col-8">
+                                        <input type="text" placeholder="Enter first name" id="TextBoxFirst" class="form-control" />
+                                    </div>
+                                </div>
+                                <div class="row mb-3">
+                                    <div class="col-4 text-right font-weight-bold">Surname:</div>
+                                    <div class="col-8">
+                                        <input type="text" placeholder="Enter surname" id="TextBoxSurname" class="form-control" />
+                                    </div>
+                                </div>
+                                <div class="row mb-3">
+                                    <div class="col-4 text-right font-weight-bold">Email:</div>
+                                    <div class="col-8">
+                                        <input type="text" placeholder="Enter email" id="TextBoxEmail" class="form-control" />
+                                    </div>
+                                </div>
+                                <div class="row mb-3">
+                                    <div class="col-4 text-right font-weight-bold">Phone Number:</div>
+                                    <div class="col-8">
+                                        <input type="text" placeholder="Enter phone number" id="TextBoxPhone" class="form-control" />
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-4">Division:</div>
+                                    <div class="col-8">
+                                        <select id="ddlDivisions" name="ddlDivisions" class="form-control"></select>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-footer text-center">
+                            <div class="row">
+                                <input type="button" value="Update" id="actionbutton" class="btn btn-secondary m-2 col-5" />
+                                <input type="button" value="Delete" id="deletebutton" class="btn btn-danger m-2 col-5" />
+                            </div>
+                            <div id="modalstatus" class="mt-3 mb-2"></div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Delete Confirmation Dialog -->
+                <div class="alert alert-danger fade" id="dialog" style="display:none;">
+                    <strong>Delete Student?</strong>
+                    <input type="button" class="btn btn-secondary mt-3" value="Yes" id="yesbutton" />
+                    <input type="button" class="btn btn-secondary mt-3" value="No" id="nobutton" />
+                </div>
+                <div id="status"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/lib/js/jquery.min.js"></script>
+    <script src="/lib/js/bootstrap.min.js"></script>
+    <script src="/js/studentsearch.js"></script>
+</body>
+</html>

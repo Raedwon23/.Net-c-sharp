@@ -1,0 +1,75 @@
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesViewModels\bin\Debug\net8.0\ExercisesViewModels.deps.json
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesViewModels\bin\Debug\net8.0\ExercisesViewModels.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesViewModels\bin\Debug\net8.0\ExercisesViewModels.pdb
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesViewModels\bin\Debug\net8.0\ExercisesDAL.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesViewModels\bin\Debug\net8.0\ExercisesDAL.pdb
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.csproj.AssemblyReference.cache
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.AssemblyInfoInputs.cache
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.AssemblyInfo.cs
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.csproj.CoreCompileInputs.cache
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.csproj.CopyComplete
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\refint\ExercisesViewModels.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.pdb
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ref\ExercisesViewModels.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesViewModels\bin\Debug\net8.0\ExercisesViewModels.deps.json
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesViewModels\bin\Debug\net8.0\ExercisesViewModels.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesViewModels\bin\Debug\net8.0\ExercisesViewModels.pdb
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesViewModels\bin\Debug\net8.0\ExercisesDAL.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesViewModels\bin\Debug\net8.0\ExercisesDAL.pdb
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.csproj.AssemblyReference.cache
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.AssemblyInfoInputs.cache
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.AssemblyInfo.cs
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.csproj.CopyComplete
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\refint\ExercisesViewModels.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.pdb
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ref\ExercisesViewModels.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesViewModels\bin\Debug\net8.0\ExercisesViewModels.deps.json
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesViewModels\bin\Debug\net8.0\ExercisesViewModels.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesViewModels\bin\Debug\net8.0\ExercisesViewModels.pdb
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesViewModels\bin\Debug\net8.0\ExercisesDAL.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesViewModels\bin\Debug\net8.0\ExercisesDAL.pdb
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.csproj.AssemblyReference.cache
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.AssemblyInfoInputs.cache
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.AssemblyInfo.cs
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.csproj.CopyComplete
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\refint\ExercisesViewModels.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.pdb
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ref\ExercisesViewModels.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.csproj.AssemblyReference.cache
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.AssemblyInfoInputs.cache
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.AssemblyInfo.cs
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesViewModels\bin\Debug\net8.0\ExercisesViewModels.deps.json
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesViewModels\bin\Debug\net8.0\ExercisesViewModels.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesViewModels\bin\Debug\net8.0\ExercisesViewModels.pdb
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesViewModels\bin\Debug\net8.0\ExercisesDAL.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesViewModels\bin\Debug\net8.0\ExercisesDAL.pdb
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.csproj.CopyComplete
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\refint\ExercisesViewModels.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.pdb
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ref\ExercisesViewModels.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesViewModels\bin\Debug\net8.0\ExercisesViewModels.deps.json
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesViewModels\bin\Debug\net8.0\ExercisesViewModels.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesViewModels\bin\Debug\net8.0\ExercisesViewModels.pdb
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesViewModels\bin\Debug\net8.0\ExercisesDAL.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesViewModels\bin\Debug\net8.0\ExercisesDAL.pdb
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.csproj.AssemblyReference.cache
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.AssemblyInfoInputs.cache
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.AssemblyInfo.cs
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.csproj.CopyComplete
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\refint\ExercisesViewModels.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ExercisesViewModels.pdb
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesViewModels\obj\Debug\net8.0\ref\ExercisesViewModels.dll

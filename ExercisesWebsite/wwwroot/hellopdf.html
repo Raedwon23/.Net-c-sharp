@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generate PDF Report</title>
+
+    <!-- jQuery reference -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <!-- Reference to our JavaScript file -->
+    <script src="js/hellopdf.js"></script>
+
+    <style>
+        .container {
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        #lblstatus {
+            margin-top: 20px;
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <button id="pdfbutton">Create PDF</button>
+        <div id="lblstatus"></div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,52 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <InvariantGlobalization>false</InvariantGlobalization>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Reports\StudentReport.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="studentwithpic.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="wwwroot\bsstyleexample.html" />
+    <_ContentIncludedByDefault Remove="wwwroot\lab9a.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Reports\StudentReport.cs" />
+    <Content Include="Reports\HelloReport.cs" />
+    <Content Include="studentwithpic.html">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="itext7" Version="9.0.0" />
+    <PackageReference Include="itext7.bouncy-castle-adapter" Version="9.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\exercises.css" />
+    <None Include="wwwroot\jsexercises\ex1.html" />
+    <None Include="wwwroot\js\ex1.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ExercisesViewModels\ExercisesViewModels.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\pdfs\" />
+  </ItemGroup>
+
+</Project>

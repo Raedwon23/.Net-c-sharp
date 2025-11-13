@@ -1,0 +1,273 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\SomeLogo (1).png",
+      "PackagePath": "staticwebassets\\SomeLogo (1).png"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\bsstyleexample.html",
+      "PackagePath": "staticwebassets\\bsstyleexample.html"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\css\\exercises.css",
+      "PackagePath": "staticwebassets\\css\\exercises.css"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\dynamichtml.html",
+      "PackagePath": "staticwebassets\\dynamichtml.html"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\hellopdf.html",
+      "PackagePath": "staticwebassets\\hellopdf.html"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\img\\sl.png",
+      "PackagePath": "staticwebassets\\img\\sl.png"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\js\\dynamichtml.js",
+      "PackagePath": "staticwebassets\\js\\dynamichtml.js"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\js\\ex1.js",
+      "PackagePath": "staticwebassets\\js\\ex1.js"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\js\\ex2.js",
+      "PackagePath": "staticwebassets\\js\\ex2.js"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\js\\ex3.js",
+      "PackagePath": "staticwebassets\\js\\ex3.js"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\js\\ex4.js",
+      "PackagePath": "staticwebassets\\js\\ex4.js"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\js\\ex5.js",
+      "PackagePath": "staticwebassets\\js\\ex5.js"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\js\\ex6.js",
+      "PackagePath": "staticwebassets\\js\\ex6.js"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\js\\hellopdf.js",
+      "PackagePath": "staticwebassets\\js\\hellopdf.js"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\js\\lab9a.js",
+      "PackagePath": "staticwebassets\\js\\lab9a.js"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\js\\studentGra.js",
+      "PackagePath": "staticwebassets\\js\\studentGra.js"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\js\\studentaddupdate.js",
+      "PackagePath": "staticwebassets\\js\\studentaddupdate.js"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\js\\studentcrud.js",
+      "PackagePath": "staticwebassets\\js\\studentcrud.js"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\js\\studentgrades.js",
+      "PackagePath": "staticwebassets\\js\\studentgrades.js"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\js\\studentlist.js",
+      "PackagePath": "staticwebassets\\js\\studentlist.js"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\js\\studentlookup.js",
+      "PackagePath": "staticwebassets\\js\\studentlookup.js"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\js\\studentsearch.js",
+      "PackagePath": "staticwebassets\\js\\studentsearch.js"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\js\\studentwithpic.js",
+      "PackagePath": "staticwebassets\\js\\studentwithpic.js"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\js\\swpk.js",
+      "PackagePath": "staticwebassets\\js\\swpk.js"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\jsexercises\\ex1.html",
+      "PackagePath": "staticwebassets\\jsexercises\\ex1.html"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\jsexercises\\ex2.html",
+      "PackagePath": "staticwebassets\\jsexercises\\ex2.html"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\jsexercises\\ex3.html",
+      "PackagePath": "staticwebassets\\jsexercises\\ex3.html"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\jsexercises\\ex4.html",
+      "PackagePath": "staticwebassets\\jsexercises\\ex4.html"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\jsexercises\\ex5.html",
+      "PackagePath": "staticwebassets\\jsexercises\\ex5.html"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\jsexercises\\ex6.html",
+      "PackagePath": "staticwebassets\\jsexercises\\ex6.html"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\lab7a.html",
+      "PackagePath": "staticwebassets\\lab7a.html"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\lab9a.html",
+      "PackagePath": "staticwebassets\\lab9a.html"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\lib\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\lib\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\lib\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\lib\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\lib\\js\\validationexample.js",
+      "PackagePath": "staticwebassets\\lib\\js\\validationexample.js"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\menuexample.html",
+      "PackagePath": "staticwebassets\\menuexample.html"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\modalexample.html",
+      "PackagePath": "staticwebassets\\modalexample.html"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\pdfs\\hellow.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\hellow.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\pdfs\\hellow1.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\hellow1.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\pdfs\\hellow2.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\hellow2.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\pdfs\\studentreport.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\studentreport.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\pics\\ChrisCross.png",
+      "PackagePath": "staticwebassets\\pics\\ChrisCross.png"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\pics\\DonnyBrook.PNG",
+      "PackagePath": "staticwebassets\\pics\\DonnyBrook.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\pics\\GilFish.png",
+      "PackagePath": "staticwebassets\\pics\\GilFish.png"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\pics\\GuacAmole.png",
+      "PackagePath": "staticwebassets\\pics\\GuacAmole.png"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\pics\\HarryBeard.PNG",
+      "PackagePath": "staticwebassets\\pics\\HarryBeard.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\pics\\HoneyBee.png",
+      "PackagePath": "staticwebassets\\pics\\HoneyBee.png"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\pics\\JackPott.png",
+      "PackagePath": "staticwebassets\\pics\\JackPott.png"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\pics\\LilyPond.png",
+      "PackagePath": "staticwebassets\\pics\\LilyPond.png"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\pics\\MarshallLaw.png",
+      "PackagePath": "staticwebassets\\pics\\MarshallLaw.png"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\pics\\NewStudent.PNG",
+      "PackagePath": "staticwebassets\\pics\\NewStudent.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\pics\\SunnyDisposition.png",
+      "PackagePath": "staticwebassets\\pics\\SunnyDisposition.png"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\pics\\new.PNG",
+      "PackagePath": "staticwebassets\\pics\\new.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\studentaddupdate.html",
+      "PackagePath": "staticwebassets\\studentaddupdate.html"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\studentcrud.html",
+      "PackagePath": "staticwebassets\\studentcrud.html"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\studentgrades.html",
+      "PackagePath": "staticwebassets\\studentgrades.html"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\studentlist.html",
+      "PackagePath": "staticwebassets\\studentlist.html"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\studentlookup.html",
+      "PackagePath": "staticwebassets\\studentlookup.html"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\studentsearch.html",
+      "PackagePath": "staticwebassets\\studentsearch.html"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\studentwithpic.html",
+      "PackagePath": "staticwebassets\\studentwithpic.html"
+    },
+    {
+      "Id": "C:\\Users\\Raghav\\Desktop\\Random Stuff\\Info3070Exercises\\ExercisesWebsite\\wwwroot\\validationexample.html",
+      "PackagePath": "staticwebassets\\validationexample.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ExercisesWebsite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ExercisesWebsite.props",
+      "PackagePath": "build\\ExercisesWebsite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ExercisesWebsite.props",
+      "PackagePath": "buildMultiTargeting\\ExercisesWebsite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ExercisesWebsite.props",
+      "PackagePath": "buildTransitive\\ExercisesWebsite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

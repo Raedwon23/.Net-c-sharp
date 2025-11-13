@@ -1,0 +1,401 @@
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\appsettings.Development.json
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\appsettings.json
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesWebsite.staticwebassets.runtime.json
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesWebsite.exe
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesWebsite.deps.json
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesWebsite.runtimeconfig.json
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesWebsite.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesWebsite.pdb
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Azure.Core.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Azure.Identity.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Castle.Core.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Memory.Data.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesDAL.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesViewModels.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesViewModels.pdb
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesDAL.pdb
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.csproj.AssemblyReference.cache
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.GeneratedMSBuildEditorConfig.editorconfig
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.AssemblyInfoInputs.cache
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.AssemblyInfo.cs
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.csproj.CoreCompileInputs.cache
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.MvcApplicationPartsAssemblyInfo.cs
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.MvcApplicationPartsAssemblyInfo.cache
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets.build.json
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets.development.json
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets\msbuild.ExercisesWebsite.Microsoft.AspNetCore.StaticWebAssets.props
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets\msbuild.build.ExercisesWebsite.props
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ExercisesWebsite.props
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ExercisesWebsite.props
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets.pack.json
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\scopedcss\bundle\ExercisesWebsite.styles.css
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.csproj.CopyComplete
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\refint\ExercisesWebsite.dll
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.pdb
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.genruntimeconfig.cache
+E:\CPA Level 3\Info3070 ClientServer\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ref\ExercisesWebsite.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\appsettings.json
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesWebsite.staticwebassets.runtime.json
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesWebsite.exe
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesWebsite.deps.json
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesWebsite.runtimeconfig.json
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesWebsite.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesWebsite.pdb
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesDAL.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesViewModels.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesViewModels.pdb
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesDAL.pdb
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.csproj.AssemblyReference.cache
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.AssemblyInfoInputs.cache
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.AssemblyInfo.cs
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets\msbuild.ExercisesWebsite.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets\msbuild.build.ExercisesWebsite.props
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ExercisesWebsite.props
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ExercisesWebsite.props
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\scopedcss\bundle\ExercisesWebsite.styles.css
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.csproj.CopyComplete
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\refint\ExercisesWebsite.dll
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.pdb
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.genruntimeconfig.cache
+C:\Users\Raghav\Desktop\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ref\ExercisesWebsite.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\appsettings.json
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesWebsite.staticwebassets.runtime.json
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesWebsite.exe
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesWebsite.deps.json
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesWebsite.runtimeconfig.json
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesWebsite.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesWebsite.pdb
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesDAL.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesViewModels.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesViewModels.pdb
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesDAL.pdb
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.csproj.AssemblyReference.cache
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.AssemblyInfoInputs.cache
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.AssemblyInfo.cs
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets\msbuild.ExercisesWebsite.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets\msbuild.build.ExercisesWebsite.props
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ExercisesWebsite.props
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ExercisesWebsite.props
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\scopedcss\bundle\ExercisesWebsite.styles.css
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.csproj.CopyComplete
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\refint\ExercisesWebsite.dll
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.pdb
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.genruntimeconfig.cache
+C:\Users\Raghav\Desktop\Random Stuff\CaseStudy[1]\Info3070Exercises[1]\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ref\ExercisesWebsite.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.csproj.AssemblyReference.cache
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.AssemblyInfoInputs.cache
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.AssemblyInfo.cs
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\appsettings.json
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesWebsite.staticwebassets.runtime.json
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesWebsite.exe
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesWebsite.deps.json
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesWebsite.runtimeconfig.json
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesWebsite.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesWebsite.pdb
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesDAL.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesViewModels.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesViewModels.pdb
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesDAL.pdb
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets\msbuild.ExercisesWebsite.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets\msbuild.build.ExercisesWebsite.props
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ExercisesWebsite.props
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ExercisesWebsite.props
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\scopedcss\bundle\ExercisesWebsite.styles.css
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.csproj.CopyComplete
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\refint\ExercisesWebsite.dll
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.pdb
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.genruntimeconfig.cache
+C:\Users\Raghav\Desktop\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ref\ExercisesWebsite.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.csproj.AssemblyReference.cache
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.AssemblyInfoInputs.cache
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.AssemblyInfo.cs
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\refint\ExercisesWebsite.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.pdb
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\appsettings.json
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesWebsite.staticwebassets.runtime.json
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesWebsite.exe
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesWebsite.deps.json
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesWebsite.runtimeconfig.json
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesWebsite.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesWebsite.pdb
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\itext.barcodes.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\itext.forms.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\itext.io.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\itext.kernel.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\itext.layout.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\itext.pdfa.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\itext.pdfua.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\itext.sign.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\itext.styledxmlparser.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\itext.svg.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\itext.commons.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesDAL.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesViewModels.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesViewModels.pdb
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\ExercisesDAL.pdb
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets\msbuild.ExercisesWebsite.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets\msbuild.build.ExercisesWebsite.props
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ExercisesWebsite.props
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ExercisesWebsite.props
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\scopedcss\bundle\ExercisesWebsite.styles.css
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.csproj.CopyComplete
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ExercisesWebsite.genruntimeconfig.cache
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\obj\Debug\net8.0\ref\ExercisesWebsite.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Raghav\Desktop\Random Stuff\Info3070Exercises\ExercisesWebsite\bin\Debug\net8.0\itext.bouncy-castle-adapter.dll

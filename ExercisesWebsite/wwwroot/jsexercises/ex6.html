@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Exercise #6</title>
+    <meta charset="utf-8" />
+    <link rel="icon" href="data:;base64,iVBORw0KGgo=">
+    <link href="/lib/css/bootstrap.min.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+    <div class="container text-center">
+        <h4 class="mt-5 mb-5">
+            Exercise #6 - Fetch data
+            from Github ,Input Student Data, Clear storage
+        </h4>
+        <div class="list-group" id="studentList"></div>
+        <button id="loadButton" class="btn btn-outline-secondary mt-5">Load</button>
+
+    </div>
+    <div id="inputFields" class="mt-4" style="display:none;width:50vw; margin-left:22vw;">
+        <span class="row"><input id="txtFirstname" type="text" placeholder="enter first name" /></span>
+        <span class="row">
+            <input id="txtLastname" type="text" placeholder="enter last name" />
+        </span>
+        <span class="row">
+            <button id="addButton" class="btn btn-outline-success mt-4">Add</button>
+            <button id="clearButton" class="btn btn-outline-success mt-4">Clear</button>
+
+        </span>
+    </div>
+    <div class="text-success text-center"
+         style="position:fixed;bottom:10vh;width:100%;font-size:large;" id="results">
+    </div>
+    <script src="/lib/js/jquery.min.js"></script>
+    <script src="/lib/js/bootstrap.min.js"></script>
+    <script src="/js/ex6.js"></script>
+
+</body>
+</html>
